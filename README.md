@@ -1,6 +1,9 @@
 #               Hello, I'm Ogulcan Deniz Inac.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=999&color=2677D1&background=FFFFFF00&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+IOS+Developer;%F0%9F%9A%80+Tech+Enthusiast+;%F0%9F%8E%92+Software+Engineer)](https://git.io/typing-svg)
-<br>🔭I'm currently developing on Swift.<br>📧 Contact me inacogulcandeniz@gmail.com
+👨🏻‍💻 IOS Developer<br>
+🎒 Software Engineer<br>
+🚀 Tech Enthusiast<br>
+🔭 I'm currently developing on Swift.<br>
+📧 Contact me inacogulcandeniz@gmail.com<br>
 
 ## ![icons8-geography](https://user-images.githubusercontent.com/109241786/234277570-4927dc4c-910c-456a-b002-a8b26b632099.gif)Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oğulcandenizinaç) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogulcandeniz) 
