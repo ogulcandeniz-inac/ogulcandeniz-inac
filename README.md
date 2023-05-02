@@ -22,14 +22,12 @@
 
 ![]() ![]() ![]() ![]()
 #  <a href = ''> <img width = '70px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235653715-91267c9a-bac3-4cec-b299-dc318ffacc4f.png" width="70" height="70" /></a>GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ogulcandeniz-inac&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ogulcandeniz-inac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ogulcandeniz-inac&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ogulcandeniz-inac&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
