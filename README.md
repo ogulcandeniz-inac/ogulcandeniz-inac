@@ -6,12 +6,22 @@
 📧 Contact me inacogulcandeniz@gmail.com<br>
 
 ## ![icons8-earth-planet-48](https://user-images.githubusercontent.com/109241786/234990490-1ffce905-72fb-4af7-8a44-bdaeade2d693.png) Socials:
-<p align="left"> <a href="https://github.com/ogulcandeniz-inac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://linkedin.com/in/oğulcandenizinaç" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@ogulcandeniz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+
+<a href = 'https://linkedin.com/in/oğulcandenizinaç'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href = 'https://github.com/ogulcandeniz-inac'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://medium.com/@ogulcandeniz" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/109241786/235647971-fa72c164-6238-4bdf-bce8-fbc2883e42d8.png" width = '45px' align= 'center' height="45" /></a></p>
 
 
-# ![icons8-monitor-100](https://user-images.githubusercontent.com/109241786/234990706-7faa9b35-1378-4d98-bfaa-462f9fea7456.png)Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# ![icons8-github](https://user-images.githubusercontent.com/109241786/234277195-3d4d8687-e3ce-434c-8ea4-2e5449e7d29e.gif)GitHub Stats:
+
+
+
+# <a href = ''> <img width = '60px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235652856-c1c7be0e-10d2-43d8-9162-23cd9c1d802a.png" width="60" height="60" /></a> Tech Stack:
+<a href = ''> <img width = '50px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235649784-c36ef2eb-421e-4fab-b35b-cd3690e3f92b.png" width="50" height="50" /></a> <a href = ''> <img width = '50px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235650614-486452a1-2944-4691-8d8a-c83ac0353f2a.png" width="50" height="50" /></a>
+<a href = ''> <img width = '55px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235651024-e935f496-1b3e-4d7f-acfa-cef68c8e9b35.png" height="55" /></a>
+<a href = ''> <img width = '60px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235651404-27917045-907c-4550-a0c2-b94499b8d58c.png" width="60" height="60" /></a>
+
+![]() ![]() ![]() ![]()
+#  <a href = ''> <img width = '70px' align= 'center' src="https://user-images.githubusercontent.com/109241786/235653715-91267c9a-bac3-4cec-b299-dc318ffacc4f.png" width="70" height="70" /></a>GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ogulcandeniz-inac&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcandeniz-inac&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
