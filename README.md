@@ -3,7 +3,7 @@
 
 * 🌱 I'm Jr. iOS Developer.
 
-* 🧠  I'm learning Learning Swift and iOS Development
+* 🧠  I am learning Swift and iOS development.
   
 * 📫  You can contact me at [inacogulcandeniz@gmail.com](mailto:inacogulcandeniz@gmail.com)
 
